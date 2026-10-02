@@ -1,0 +1,23 @@
+section{
+    background-image:url(./Image\ 8.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 600px;
+    width: 100%;
+    display: flex;
+    color: white;
+    background-attachment: fixed;
+}
+.home2{
+    background-image:url(./Image\ 12.jpg);
+}
+.home3{
+    background-image: url(./Image\ 8.jpg);
+}
+.home4{
+    background-image: url(./Image\ 3.jpg);
+}
+img{
+    height: 540px;
+    width: 150%;
+}
